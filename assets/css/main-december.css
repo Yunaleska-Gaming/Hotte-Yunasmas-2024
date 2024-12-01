@@ -121,11 +121,12 @@ body {
 
 .surprise-december {
     background: rgba(255,255,255,0.5);
-    padding: 40px 0;
+    padding: 15px 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     box-shadow: 0 0 10px #fff;
     text-align: center;
-    height: 40px;
+    height: 90px;
+    font-size : 14px;
 }
 
 .days-number {
